@@ -1,1 +1,1 @@
-42 Student and Indie hacker
+42 Student
