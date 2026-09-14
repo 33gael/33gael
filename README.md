@@ -46,9 +46,3 @@ Student developer at **42 Angoulême**, passionate about software engineering, s
     <img src="https://wakatime.com/share/@43697b15-0819-4fb4-b198-b677a6e22a88/79520886-a0d8-4533-9d6c-d277e718b743.svg" alt="WakaTime coding activity, languages and statistics" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/33gael">
-    <img src="https://img.shields.io/badge/GitHub-33gael-181717?style=for-the-badge&logo=github&logoColor=black" alt="GitHub profile" />
-  </a>
-</p>
