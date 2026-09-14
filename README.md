@@ -42,7 +42,9 @@ Student developer at **42 Angoulême**, passionate about software engineering, s
 ## WakaTime
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=33gael&layout=compact&hide_border=true&theme=transparent" alt="WakaTime coding activity" />
+  <a href="https://wakatime.com/@43697b15-0819-4fb4-b198-b677a6e22a88">
+    <img src="https://wakatime.com/badge/user/43697b15-0819-4fb4-b198-b677a6e22a88.svg" alt="WakaTime coding activity" />
+  </a>
 </p>
 
 <p align="center">
