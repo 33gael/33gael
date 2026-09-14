@@ -49,6 +49,6 @@ Student developer at **42 Angoulême**, passionate about software engineering, s
 
 <p align="center">
   <a href="https://github.com/33gael">
-    <img src="https://img.shields.io/badge/GitHub-33gael-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-33gael-181717?style=for-the-badge&logo=github&logoColor=black" alt="GitHub profile" />
   </a>
 </p>
