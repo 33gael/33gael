@@ -42,8 +42,8 @@ Student developer at **42 Angoulême**, passionate about software engineering, s
 ## WakaTime
 
 <p align="center">
-  <a href="https://wakatime.com/@43697b15-0819-4fb4-b198-b677a6e22a88">
-    <img src="https://wakatime.com/badge/user/43697b15-0819-4fb4-b198-b677a6e22a88.svg" alt="WakaTime coding activity" />
+  <a href="https://wakatime.com/share/@43697b15-0819-4fb4-b198-b677a6e22a88/79520886-a0d8-4533-9d6c-d277e718b743.svg">
+    <img src="https://wakatime.com/share/@43697b15-0819-4fb4-b198-b677a6e22a88/79520886-a0d8-4533-9d6c-d277e718b743.svg" alt="WakaTime coding activity, languages and statistics" />
   </a>
 </p>
 
