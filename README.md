@@ -1,5 +1,3 @@
-# Gaël Ducassé
-
 ### Software Developer · 42 Student
 
 Student developer at **42 Angoulême**, passionate about software engineering, system programming and building useful, reliable applications. I enjoy understanding complex problems, learning quickly and turning ideas into clean, maintainable code.
