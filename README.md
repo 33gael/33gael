@@ -4,7 +4,7 @@ Student developer at **42 Angoulême**, passionate about software engineering, s
 
 ## About me
 
-- Developing projects in **C** and **Python**, with a strong interest in systems and application development
+- Developing projects in **C** and **Python**, with a strong interest in AI, ML and systems development
 - Building web and automation projects with **JavaScript**, **TypeScript** and **Docker**
 - Practicing collaborative problem-solving through the peer-to-peer learning model at 42
 - Always looking to improve my engineering practices and discover new technologies
