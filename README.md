@@ -28,11 +28,3 @@ Student developer at **42 Angoulême**, passionate about software engineering, s
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,apple,bash,vscode,vim" alt="Linux, macOS, Bash, VS Code and Vim" />
 </p>
-
-## Featured projects
-
-| Project | Description | Main technologies |
-| --- | --- | --- |
-| [Horus](https://github.com/33gael/Horus) | Asynchronous OSINT scanner focused on data collection and analysis | Python · asyncio · Playwright · httpx |
-| [Call Me Maybe](https://github.com/33gael/Call-Me-Maybe) | Application built around structured interactions with an AI model | Python · Pydantic · JSON |
-| [cub3D](https://github.com/33gael/cub3D) | 3D raycasting engine developed as part of the 42 curriculum | C · MiniLibX · Algorithms |
